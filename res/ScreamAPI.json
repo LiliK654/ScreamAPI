@@ -6,7 +6,28 @@
   "block_metrics": false,
   "catalog_items": {
     "unlock_all": true,
-    "override": []
+    "override": [
+    "6697e79392554afcbec394633211bcaf",
+    "2c88f74a7bc542bb82916e0a4227058a",
+    "dc8c6d35cb3844e78b9c83a1b37ac0b7",
+    "3b6f54481d9848fbbf78d22bb9578d72",
+    "1104b06cc46744888e76129ac657e443",
+    "2af21efd1c084bda89f575a749053320",
+    "2bd9aea706664a24b71a0f4414b66db1",
+    "349b7f59d073490e92b03bb49027f30f",
+    "cf80d1429e6d42c697f3b5b6f2d3bdc7",
+    "297ef9f3fcef4f2ea0ff67cb59563c9a",
+    "b6d46d309eb34cdfbf070bd825f28fa6",
+    "ea5275812a764b5496edc10bf915b5cd",
+    "074c6759fc794e268cadd1e661f4303b",
+    "6eda18d808af4c59a023356b48a4ca21",
+    "b515a66f37ff48a997efd0f0c4cc6de5",
+    "c8d77d635e714fd2b1c417df92adbc04",
+    "3583b85da8f8422bb19f700ab6b77028",
+    "767280209dd04165ba89acb27bfe2f73",
+    "7c55fd8b267c4adba656f1eba33a3529",
+    "f4c6e12413624702ae5761d630a10e5b"
+    ]
   },
   "entitlements": {
     "unlock_all": true,
